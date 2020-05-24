@@ -17,7 +17,7 @@ ___
 | Team DRB      | Team Ast      |   Team Stl | Team Blk      | Team TOV      |   Team Fouls | Team Pts     | Unique Game ID      |   Date of Game |
 
 * Composite Key: Team Name + Game ID
-
+* Data Updates for the Prior Day @ 11:15 AM 
 ___
 ### System Architecture 
 ![alt text](https://github.com/dzipkowi/NBA-Data-Pipeline/blob/master/Images/System%20Architecture.png "Architecture")
