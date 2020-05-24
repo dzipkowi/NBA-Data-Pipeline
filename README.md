@@ -10,7 +10,7 @@ ___
 
 | TEAM_NAME        | OUTCOME           | MINUTES_PLAYED  | MADE_FIELD_GOALS        | ATTEMPTED_FIELD_GOALS           | MADE_THREE_POINT_FIELD_GOALS  |ATTEMPTED_THREE_POINT_FIELD_GOALS        | MADE_FREE_THROWS           | ATTEMPTED_FREE_THROWS  | OFFENSIVE_REBOUNDS        | 
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Team Name     | WIN / LOSS      |   Team Minutes | Team FGM      | Team FGA      |   Team 3PM | Team 3PA      | Team FTM      |   Team FTA | Team ORB      | 
+| Team Name     | Win / Loss      |   Team Minutes | Team FGM      | Team FGA      |   Team 3PM | Team 3PA      | Team FTM      |   Team FTA | Team ORB      | 
 
 | DEFENSIVE_REBOUNDS        | ASSISTS           | STEALS  | BLOCKS        | TURNOVERS           | PERSONAL_FOULS  |POINTS        | GAME_ID           | DATE  | 
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
