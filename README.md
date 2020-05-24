@@ -2,7 +2,7 @@
 
 NBA box score data refreshed daily via Airflow on Google Cloud 
 
-*Note: The pipeline is still active while the NBA Season is suspending but the data will not update until an additional game is played.*<br>
+*Note: The pipeline is still active while the NBA Season is suspended but the data will not update until an additional game is played.*<br>
 ___
 ***Dataset Details***
 * Dataset starts on 1/1/2010
