@@ -26,7 +26,7 @@ ___
 
 
 
-![alt text](https://github.com/dzipkowi/NBA-Data-Pipeline/blob/master/Images/Airflow.png "Airflow")
+![alt text](https://github.com/dzipkowi/NBA-Data-Pipeline/blob/master/Images/Airflow_v2.png "Airflow")
 
 
 ___
