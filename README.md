@@ -20,8 +20,11 @@ ___
 * Data Updates for the Prior Day @ 11:15 AM 
 ___
 ### System Architecture 
-![alt text](https://github.com/dzipkowi/NBA-Data-Pipeline/blob/master/Images/System%20Architecture.png "Architecture")
+
+<img src="Images/System Architecture.png" alt="drawing" height = "450" width="600"/>
 <br>
+
+
 
 ![alt text](https://github.com/dzipkowi/NBA-Data-Pipeline/blob/master/Images/Airflow.png "Airflow")
 
