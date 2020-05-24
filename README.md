@@ -17,7 +17,7 @@ ___
 | Team DRB      | Team AST      |   Team STL | Team BLK      | Team TOV      |   Team Fouls | Team PTS     | Unique Game ID      |   Date of Game |
 
 * Composite Key: Team Name + Game ID
-* Data Updates for the Prior Day @ 11:15 AM 
+* Data Updates for the Prior Day @ 11:15 AM [Eastern Standard Time]
 ___
 ### System Architecture 
 
