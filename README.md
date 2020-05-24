@@ -14,7 +14,7 @@ ___
 
 | DEFENSIVE_REBOUNDS        | ASSISTS           | STEALS  | BLOCKS        | TURNOVERS           | PERSONAL_FOULS  |POINTS        | GAME_ID           | DATE  | 
 |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
-| Team DRB      | Team Ast      |   Team Stl | Team Blk      | Team TOV      |   Team Fouls | Team Pts     | Unique Game ID      |   Date of Game |
+| Team DRB      | Team AST      |   Team STL | Team BLK      | Team TOV      |   Team Fouls | Team PTS     | Unique Game ID      |   Date of Game |
 
 * Composite Key: Team Name + Game ID
 * Data Updates for the Prior Day @ 11:15 AM 
