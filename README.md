@@ -21,7 +21,7 @@ ___
 ___
 ### System Architecture 
 
-<img src="Images/System Architecture.png" alt="drawing" height = "450" width="600"/>
+<img src="Images/System Architecture.png" alt="drawing" height = "450" width="650"/>
 <br>
 
 
